@@ -1,7 +1,7 @@
 +x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x+x
 
 GUI Based Chat Application
-Project by - Sahil & Himani
+Project by - Sahil
 
 1. Go to Directory upto 'cmd' by using cd command.
 2. Compile -
